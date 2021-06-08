@@ -32,7 +32,7 @@ Submit the three files in this assignment, Make sure to turn the assignment in, 
 
 This assignment must be individual (i.e., one submission for each student) and original (i.e., not equal or too similar to other works either from other students in this class or from other sources). Evaluation will be based on the appropriateness and correctness of the described solution, regardless of the numeric results (as long as they are reasonable). The results on the blind test also do not affect the evaluation of this homework.
 
-
+# Solution
 
 Here you can find the solution jupiter notebook:
 
